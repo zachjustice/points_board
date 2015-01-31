@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    background: #afa09a;
+}
+
+#container {
+    width: 750px;
+    margin: 0 auto;
+    background: #99c;
+}
+
+#header {
+    background: #ddd;
+}
+
+#points_board {
+    background: #9c9;
+    float: right;
+    width: 480px;
+    padding: 10px;
+}
+
+#points_title {
+}
+
+#points_log {
+}
+
+#sidebar {
+    background: #99c;
+    float: left;
+    padding: 10px;
+    width: 230px;
+}
+
+.sidebar_section {
+}
+
+.section_title {
+}
+
+.section_options {
+}
+
+.show_chidren {
+}
